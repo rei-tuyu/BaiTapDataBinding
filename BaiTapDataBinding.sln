@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapDataBinding", "BaiTapDataBinding\BaiTapDataBinding.csproj", "{636E3BA0-9878-4EFF-B5DD-67D227F0C762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636E3BA0-9878-4EFF-B5DD-67D227F0C762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636E3BA0-9878-4EFF-B5DD-67D227F0C762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636E3BA0-9878-4EFF-B5DD-67D227F0C762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636E3BA0-9878-4EFF-B5DD-67D227F0C762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59964008-9BF0-4DBE-AC71-D2D4CF79012C}
+	EndGlobalSection
+EndGlobal
